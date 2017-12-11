@@ -1,0 +1,39 @@
+languages:
+  - item: Python
+  - item: C Language
+  - item: CPP
+  - item: HTML 5
+  - item: CSS/Sass
+  - item: JavaScript (ES6)
+  - item: Java
+  - item: SQL
+  - item: 
+
+frameworks:
+  - item: Data Structures
+  - item: Algorithm Design
+  - item: SSH Tunneling
+  - item: Computer Networks
+  - item: Cyber Security
+  - item: Data Analysis
+  - item: SEO Analysis
+  - item: Wordpress Dev
+
+tools:
+  - item: MongoDB
+  - item: MySQL
+  - item: Visual Studio Code
+  - item: XAMPP/MAMP
+  - item: Node.js
+  - item: Bash
+  - item: Git & Github
+  - item: Chrome DevTools
+  - item: Wordpress 
+
+design:
+  - item: Computation Theory
+  - item: System Programming
+  - item: Python Web Dev'nt
+  - item: django
+  - item: Software Testing
+  - item: Artificial Intelligence

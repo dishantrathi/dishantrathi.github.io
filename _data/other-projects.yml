@@ -1,0 +1,24 @@
+- name: SICCiPy
+  url: https://github.com/dishantrathi/SICCiPy#siccipy---simple-internet-connection-checker
+  code: https://github.com/dishantrathi/SICCiPy
+  description: A Simple Internet Connection Checker in python, wiz. used to check that, the machine on which the script is running has an Internet Connection or Not.
+  used:
+    - thing: Python
+
+- name: CryptoLivePrice (Soon)
+  url: https://github.com/dishantrathi
+  code: https://github.com/dishantrathi
+  description: This App gives live Exchange Rates of Crypto Currencies Like BTC, ETH, LTC etc. in respect to your desired required currency.
+  used:
+    - thing: Python
+
+# - name: appname
+#   url: 
+#   description: 
+#   used:
+#   - thing: JavaScript
+#   - thing: CSS
+#   - thing: Handlebars
+#   - thing: Backbone
+#   - thing: Marionette
+#   - thing: Cordova
