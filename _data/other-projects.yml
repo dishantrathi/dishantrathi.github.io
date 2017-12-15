@@ -6,8 +6,8 @@
     - thing: Python
 
 - name: CryptoLivePrice (Soon)
-  url: https://github.com/dishantrathi
-  code: https://github.com/dishantrathi
+  url: https://github.com/dishantrathi/Crypto-Currency-Live-Exchange-Rates/blob/master/README.md#crypto-currency-live-exchange-rates
+  code: https://github.com/dishantrathi/Crypto-Currency-Live-Exchange-Rates
   description: This App gives live Exchange Rates of Crypto Currencies Like BTC, ETH, LTC etc. in respect to your desired required currency.
   used:
     - thing: Python
