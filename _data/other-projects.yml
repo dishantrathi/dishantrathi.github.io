@@ -20,6 +20,15 @@
   used:
     - thing: Python
 
+- name: Litresin.ml | URL Shortening Service
+  url: https://github.com/dishantrathi/litresin.ml#litresinml-%EF%B8%8F-url-shortening-django-powered--web-application
+  code: https://github.com/dishantrathi/litresin.ml
+  description: A python-django powered web application whch can shorten long url's in seconds, designed on Bootstrap 4.
+  used:
+    - thing: Python
+    - thing: Django
+    - thing: Bootstrap
+
 # - name: appname
 #   url: 
 #   description: 
